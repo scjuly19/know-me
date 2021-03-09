@@ -11,7 +11,10 @@ const questions=[{
 {
   question:"Who is my favorite FRIENDS's character ? ",
   answer:"Joey"
-}]
+},
+{question:"Which month is my birthday ? ",
+answer:"July"}
+]
 
 var score=0;
 
